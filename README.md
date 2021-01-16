@@ -25,7 +25,7 @@ ______________________________________________________________________________
 
 #### **Deployed Link**
 
-* [See Live Site on Git Hub](https://gcvarela21.github.io/varela_portfolio/)
+* [See Live Site on Git Hub](https://gcvarela21.github.io/glo.digital/)
 ​
 
 ### **The Author Links**
@@ -33,8 +33,8 @@ ______________________________________________________________________________
 ​
 **Gloria C Varela**
 
-* [Link to Portfolio Site](https://gcvarela21.github.io/varela_portfolio/)
-* [Link to Github](https://github.com/gcvarela21)
+* [Link to Portfolio Site](https://gcvarela21.github.io/glo.digital/)
+* [Link to Github](https://github.com/gcvarela21/glo.digital)
 * [Link to LinkedIn](https://www.linkedin.com/in/glovarela)
 ​
 ​
