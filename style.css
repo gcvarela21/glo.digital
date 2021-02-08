@@ -99,7 +99,39 @@ color: white;
 }
 
 #avatar-project {
-    width: 300px;
+    width: 500px;
     height: auto;
 }
+/* unvisited link */
+a:link {
+	color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+	color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+	color: rgb(82, 3, 185);
+  }
+  
+  /* selected link */
+  a:active {
+	color: black;
+  }
+i {
+	color: black;
+	font-size: 60px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.awesome {
+	font-size: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 
