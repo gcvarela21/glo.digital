@@ -33,9 +33,10 @@ ______________________________________________________________________________
 ​
 **Gloria C Varela**
 
-* [Link to Portfolio Site](https://gcvarela21.github.io/glo.digital/)
-* [Link to Github](https://github.com/gcvarela21/glo.digital)
-* [Link to LinkedIn](https://www.linkedin.com/in/glovarela)
+* [Web-Development Portfolio Site on GitHub](https://gcvarela21.github.io/glo.digital/)
+* [UX and UI Portfolio Site](https://www.glo.digital/)
+* [LinkedIn](https://www.linkedin.com/in/glovarela/)
+* [Instagram](https://www.instagram.com/glo.digital.ig/)
 ​
 ​
 ​

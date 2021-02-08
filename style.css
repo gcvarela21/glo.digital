@@ -5,7 +5,7 @@ html {
 	background: rgb(255, 41, 255);
 	background: -moz-linear-gradient(-45deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
 	background: -webkit-linear-gradient(-45deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
-	background: linear-gradient(135deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1)1) 100%);
+	background: linear-gradient(135deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
 }
 
 body{
